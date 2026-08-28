@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# build output
+dist/
+build/
+*.log
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# secrets - never commit these
+.env
+.env.local
+*.key
