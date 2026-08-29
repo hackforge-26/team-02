@@ -151,4 +151,4 @@ npm run build
 
 ## 📄 License
 
-This project is created for hackathon demonstration and open community food rescue initiatives under the MIT License.
+This project is created for open community food rescue initiatives under the MIT License.

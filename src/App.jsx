@@ -1232,7 +1232,7 @@ function App() {
           </section>
 
           <footer className="landing-footer">
-            <p>© {new Date().getFullYear()} Surplus Food Connect • Hackathon Edition</p>
+            <p>© {new Date().getFullYear()} Surplus Food Connect • All rights reserved.</p>
             <p>Powered by React, Vite & Supabase PostgreSQL</p>
           </footer>
         </div>
@@ -1528,7 +1528,7 @@ function App() {
               </>
             )}
 
-            <p className="demo-text">Hackathon Edition • Powered by Supabase PostgreSQL</p>
+            <p className="demo-text">Secure & Verified • Powered by Supabase PostgreSQL</p>
           </div>
         </div>
       );
